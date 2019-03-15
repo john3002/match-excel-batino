@@ -1,0 +1,1 @@
+=IF(SUBSTITUTE(SUBSTITUTE(E3,"*","")," ","")=SUBSTITUTE(SUBSTITUTE(G3,"*","")," ",""),"Y","N")
